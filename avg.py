@@ -5,4 +5,4 @@ for i in range(0,num):
     a.append(val)
 avg=sum(a)/num
 print("Number is {}".format(a))
-print("Average of the list  {}".format(round(avg,2)))
+print("Average of the list  {}",format(round(avg)))
