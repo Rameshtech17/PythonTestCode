@@ -1,4 +1,3 @@
-
 String1 = "{} {} {}".format('one', 'two', 'three')
 print("String in default order: ")
 print(String1)

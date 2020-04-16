@@ -28,7 +28,7 @@ def test_duck(duck):
     duck.quack()
 
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
     # donald = Duck()
     # test_duck(donald)
 

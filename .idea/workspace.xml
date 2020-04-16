@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36b8256c-250f-4932-b343-301f0877b4fe" name="Default Changelist" comment="" />
+    <list default="true" id="36b8256c-250f-4932-b343-301f0877b4fe" name="Default Changelist" comment="Basic Python code">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommandLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonTestCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTestCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ducks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ducks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/format_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/format_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1aUf3jYLqGxaOlIFTJj9hm6aOGU" />
   <component name="ProjectViewState">
@@ -18,6 +46,123 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.MultiThreading">
+    <configuration name="Exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiThreading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiThreading.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Polymorphism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MultiThreading" />
+        <item itemvalue="Python.Exception" />
+        <item itemvalue="Python.Polymorphism" />
+        <item itemvalue="Python.Inheritance" />
+        <item itemvalue="Python.class" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,6 +175,168 @@
       <option name="presentableId" value="Default" />
       <updated>1586794895986</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic Python code">
+      <created>1586795136995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586795136995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic Python code">
+      <created>1586854484694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586854484694</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Python code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Python code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1114" y="133" width="641" height="844" key="#CommandLine" timestamp="1586933872818">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#CommandLine/0.27.1920.1053@0.27.1920.1053" timestamp="1586933872818" />
+    <state x="1114" y="133" width="641" height="844" key="#Inheritance" timestamp="1587016058742">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#Inheritance/0.27.1920.1053@0.27.1920.1053" timestamp="1587016058742" />
+    <state x="75" y="215" width="800" height="680" key="#Inspections" timestamp="1586945684219">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="215" width="800" height="680" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1586945684219" />
+    <state x="75" y="215" width="800" height="680" key="#Notifications" timestamp="1586855025914">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="215" width="800" height="680" key="#Notifications/0.27.1920.1053@0.27.1920.1053" timestamp="1586855025914" />
+    <state x="1114" y="133" width="641" height="844" key="#Polymorphism" timestamp="1587019043753">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#Polymorphism/0.27.1920.1053@0.27.1920.1053" timestamp="1587019043753" />
+    <state x="154" y="133" width="641" height="844" key="#Tuple" timestamp="1586858179937">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="154" y="133" width="641" height="844" key="#Tuple/0.27.1920.1053@0.27.1920.1053" timestamp="1586858179937" />
+    <state x="154" y="146" width="641" height="817" key="#Tuple_&amp;_set" timestamp="1586858194801">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="154" y="146" width="641" height="817" key="#Tuple_&amp;_set/0.27.1920.1053@0.27.1920.1053" timestamp="1586858194801" />
+    <state x="634" y="133" width="641" height="844" key="#avg" timestamp="1586795316085">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="133" width="641" height="844" key="#avg/0.27.1920.1053@0.27.1920.1053" timestamp="1586795316085" />
+    <state x="634" y="133" width="641" height="844" key="#class" timestamp="1586943455545">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="133" width="641" height="844" key="#class/0.27.1920.1053@0.27.1920.1053" timestamp="1586943455545" />
+    <state x="1114" y="133" width="641" height="844" key="#class_1" timestamp="1586943559117">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#class_1/0.27.1920.1053@0.27.1920.1053" timestamp="1586943559117" />
+    <state x="1114" y="133" width="641" height="844" key="#ducks" timestamp="1586945227969">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#ducks/0.27.1920.1053@0.27.1920.1053" timestamp="1586945227969" />
+    <state x="1114" y="133" width="641" height="844" key="#for" timestamp="1586934851583">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1114" y="133" width="641" height="844" key="#for/0.27.1920.1053@0.27.1920.1053" timestamp="1586934851583" />
+    <state x="154" y="133" width="641" height="844" key="#list" timestamp="1586850960656">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="154" y="133" width="641" height="844" key="#list/0.27.1920.1053@0.27.1920.1053" timestamp="1586850960656" />
+    <state x="154" y="133" width="641" height="844" key="#set" timestamp="1586858304197">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="154" y="133" width="641" height="844" key="#set/0.27.1920.1053@0.27.1920.1053" timestamp="1586858304197" />
+    <state x="634" y="133" width="641" height="844" key="#test" timestamp="1586795795057">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="133" width="641" height="844" key="#test/0.27.1920.1053@0.27.1920.1053" timestamp="1586795795057" />
+    <state x="540" y="151" width="830" height="808" key="CommitChangelistDialog2" timestamp="1587046786293">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="540" y="151" width="830" height="808" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1587046786293" />
+    <state width="914" height="277" key="GridCell.Tab.0.bottom" timestamp="1587046786945">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587046786945" />
+    <state width="914" height="277" key="GridCell.Tab.0.center" timestamp="1587046786943">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="277" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587046786943" />
+    <state width="914" height="277" key="GridCell.Tab.0.left" timestamp="1587046786943">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="277" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587046786943" />
+    <state width="914" height="277" key="GridCell.Tab.0.right" timestamp="1587046786944">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="277" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587046786944" />
+    <state width="914" height="342" key="GridCell.Tab.1.bottom" timestamp="1586935145975">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="342" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1586935145975" />
+    <state width="914" height="342" key="GridCell.Tab.1.center" timestamp="1586935145974">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="342" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1586935145974" />
+    <state width="914" height="342" key="GridCell.Tab.1.left" timestamp="1586935145974">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="342" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1586935145974" />
+    <state width="914" height="342" key="GridCell.Tab.1.right" timestamp="1586935145974">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="342" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1586935145974" />
+    <state x="0" y="119" width="1536" height="875" key="MergeDialog" timestamp="1586854423806">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="119" width="1536" height="875" key="MergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586854423806" />
+    <state x="185" y="270" width="580" height="569" key="MultipleFileMergeDialog" timestamp="1586854423809">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="185" y="270" width="580" height="569" key="MultipleFileMergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1586854423809" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586946157290">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1586946157290" />
+    <state x="555" y="289" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1586855088242">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1586855088242" />
+    <state x="252" y="473" width="455" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587037981995">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="252" y="473" width="455" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1587037981995" />
+    <state x="1103" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1586942412301">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1103" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1586942412301" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/for.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

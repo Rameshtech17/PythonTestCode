@@ -21,3 +21,7 @@ print(num1)
 del num1[6:8]  # Delete the value between index[6] to index[8]
 print(num1)
 
+print(min(num1))
+print(max(num1))
+num2=list(range(0,20,3))
+print(num2)
