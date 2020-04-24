@@ -1,5 +1,5 @@
 from time import sleep
-from threading  import *
+from threading import *
 
 
 class A(Thread):
